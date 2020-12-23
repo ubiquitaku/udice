@@ -1,0 +1,5 @@
+name: Udice
+version: ${project.version}
+main: ubiquitaku.udice.Udice
+commands:
+  ud:
